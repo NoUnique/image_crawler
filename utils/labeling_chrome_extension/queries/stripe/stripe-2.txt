@@ -1,0 +1,100 @@
+stripe sweater;301
+striped sweater;243
+스트라이프 sweater;17
+줄무늬 sweater;32
+stripe turtleneck sweater;248
+striped turtleneck sweater;304
+스트라이프 turtleneck sweater;39
+줄무늬 turtleneck sweater;148
+stripe pullover sweater;117
+striped pullover sweater;65
+스트라이프 pullover sweater;0
+줄무늬 pullover sweater;12
+stripe 니트;16
+striped 니트;2
+스트라이프 니트;75
+줄무늬 니트;36
+stripe 스웨터;7
+striped 스웨터;77
+스트라이프 스웨터;157
+줄무늬 스웨터;14
+stripe jacket;209
+striped jacket;509
+스트라이프 jacket;14
+줄무늬 jacket;39
+stripe denim jacket;34
+striped denim jacket;16
+스트라이프 denim jacket;8
+줄무늬 denim jacket;47
+stripe leather jacket;0
+striped leather jacket;0
+스트라이프 leather jacket;0
+줄무늬 leather jacket;0
+stripe tuxedo jacket;2
+striped tuxedo jacket;2
+스트라이프 tuxedo jacket;0
+줄무늬 tuxedo jacket;11
+stripe sport coat;7
+striped sport coat;18
+스트라이프 sport coat;13
+줄무늬 sport coat;7
+stripe windbreaker;0
+striped windbreaker;19
+스트라이프 windbreaker;0
+줄무늬 windbreaker;1
+stripe blazer;252
+striped blazer;294
+스트라이프 blazer;42
+줄무늬 blazer;95
+stripe 자켓;16
+striped 자켓;6
+스트라이프 자켓;60
+줄무늬 자켓;15
+stripe 재킷;0
+striped 재킷;4
+스트라이프 재킷;5
+줄무늬 재킷;13
+stripe dress;683
+striped dress;347
+스트라이프 dress;57
+줄무늬 dress;78
+stripe swing dress;511
+striped swing dress;297
+스트라이프 swing dress;508
+줄무늬 swing dress;435
+stripe wrap dress;385
+striped wrap dress;434
+스트라이프 wrap dress;394
+줄무늬 wrap dress;283
+stripe sarong dress;0
+striped sarong dress;18
+스트라이프 sarong dress;0
+줄무늬 sarong dress;18
+stripe pencil dress;150
+striped pencil dress;145
+스트라이프 pencil dress;234
+줄무늬 pencil dress;166
+stripe slip dress;125
+striped slip dress;34
+스트라이프 slip dress;279
+줄무늬 slip dress;29
+stripe shirt dress;395
+striped shirt dress;640
+스트라이프 shirt dress;624
+줄무늬 shirt dress;697
+stripe shirtdress;455
+striped shirtdress;592
+스트라이프 shirtdress;601
+줄무늬 shirtdress;691
+stripe turtleneck dress;323
+striped turtleneck dress;164
+스트라이프 turtleneck dress;87
+줄무늬 turtleneck dress;325
+stripe strappy dress;386
+striped strappy dress;75
+스트라이프 strappy dress;135
+줄무늬 strappy dress;64
+stripe playsuit;545
+striped playsuit;427
+스트라이프 playsuit;556
+줄무늬 playsuit;566

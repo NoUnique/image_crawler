@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  
+  "name": "NoUnique Labeling Tool",
+  "description": "Click image to set boundary of less noisy images",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Ctrl+Shift+S to START"
+  },
+  "permissions": [
+      "<all_urls>",
+      "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "content_scripts": [{
+    "matches": ["*://*.google.co.kr/*"],
+    "js": ["jquery-3.1.0.min.js", "content.js"]
+  }],
+  "web_accessible_resources": ["injection.js", "query.txt"],
+  "commands": {
+    "toggle-labeling": {
+      "description": "Toggle labeling-mode",
+      "suggested_key": {
+        "default": "Ctrl+Shift+S"
+      }
+    }
+  }
+}
