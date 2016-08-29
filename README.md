@@ -37,5 +37,5 @@
 - --t : (optional, default = 1000) wait time(ms) after scrolling in virtual browser. optimal value depends on network speed and compute power of system
 - --o : (optional, default = 'urls.csv') name of output url file 
 
-# Author: 
-- TaeHwan Yoo (summer-intern at 2016)
+# Credits: 
+- TaeHwan Yoo
